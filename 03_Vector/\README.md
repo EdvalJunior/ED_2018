@@ -7,4 +7,4 @@ Esse fez com dificuldades viessem a tona já que é bem fácil usar de estrutura
 - Assim como os demais trabalho retirando o primeiro,
 esse foi feito a partir da gravação das aulas que auxilio em dúvidas na estrutura, 
 bem como auxílio de amigos que me explicaram sua lógica para que eu entendesse o reserve e 
-estudo por fora lendo sobre o reserve dentro da linguagem no [http://www.cplusplus.com/reference/vector/vector/reserve]
+estudo por fora lendo sobre o reserve dentro da linguagem no (http://www.cplusplus.com/reference/vector/vector/reserve)
