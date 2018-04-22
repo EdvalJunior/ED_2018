@@ -7,7 +7,7 @@
 
 ## Execução 
 
-- No inicio da execução me de parei com alguns problemas no decorrer do trajeto em especial no furar que estava recursivo e tivemos que transformar em interativo além deste problema ainda estava muito indisposto no decorrer dessa execução por uma doença que peguei, porém mesmo com todos os contra tempos consegui fazer meu melhor e entregar o que foi pedido não sei se está certo, entretanto foi o que consegui desenvolver. Neste trabalho tive ajuda de pesquisas na internet, colegas de sala e muito esforço próprio. 
+- No inicio da execução me deparei com alguns problemas no decorrer do trajeto em especial no furar que estava recursivo e tivemos que transformar em interativo além deste problema ainda estava muito indisposto no decorrer dessa execução por uma doença que peguei, porém mesmo com todos os contra tempos consegui fazer meu melhor e entregar o que foi pedido não sei se está certo, entretanto foi o que consegui desenvolver. Neste trabalho tive ajuda de pesquisas na internet, colegas de sala e muito esforço próprio. 
 
 ## Aprendizado 
 
