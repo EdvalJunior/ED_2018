@@ -2,7 +2,7 @@
 
 ## Impressões
 
--Iniciei já gostando bastante do trabalho, pois sempre pensei comigo mesmo como era os códigos por trás da interface de um editor de texto e quando vi que iriamos fazer sobre um fiquei bem empolgado.
+- Iniciei já gostando bastante do trabalho, pois sempre pensei comigo mesmo como era os códigos por trás da interface de um editor de texto e quando vi que iriamos fazer sobre um fiquei bem empolgado.
 
 ## Execução 
 
