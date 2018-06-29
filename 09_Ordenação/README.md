@@ -1,15 +1,13 @@
-# Módulo de ordenação
+# 09_Ordenação
 
-## Assista o vídeo.
-[![Vídeo explicativo](video.png)](https://youtu.be/D_3RdjAMKco "Vídeo explicando o módulo")
+## Impressões
 
-## Atividades do módulo.
+- Em FUP já tinha tido contato com ordenação pelo menos com a outra parte da turma falando que estavam ordenando vetores com métodos que se chamavam: bubble sort e entre outros que agora não me recordo. Quando vi a ordenação das barrinhas enquanto o David mexia no computador dele fiquei muito chocado, pois achei muito incrível e na hora queria aprender, só não esperava ver  que houvessem tantos métodos de ordenação e eu só conhecia o bubble e o merge, por ter tido contato em Sistemas Operacionais(SO).
 
-1. Implementar um embaralhador de vetor.
-2. Criar um vetor crescente e embaralhe.
-3. Implementar o minimum de forma que em cada laco ele encontre o mínimo e o máximo.
-4. Implementar o bubble sort
-5. Implementar o selection sort.
-5. Implementar o quick sort
-6. Implementar o merge sort
-7. Implementar o bucket sort
+## Execução 
+
+- Os métodos implementados que deveriam ser estudados de preferência foram quick-sort e merge, que contém a parte interativa para divisão e a merge-sort que é recurvisa e que chama a função para as duas divisões do vetor. Tive auxilio de colegas de sala, pois no dia que foi passado estavamos em sala e nos dividimos em duplas onde a minha dupla(Maria Eduarda) e eu estávamos compartilhando conhecimento e entendimento com outra dupla(Sávila e Nayara). Em casa tive que apenas pegar o código feito e revisá-lo de forma que seja possível falar sobre e chegar a implementá-lo sem auxílio do código já feito.  
+
+## Aprendizado 
+
+- Gostei das funções de ordenação, em especial, as passadas para nós como material de estudo, pois esses métodos se baseiam em recursão, conteúdo abordado no decorrer da cadeira, e na tática de divisão e conquista onde divide-se os métodos em dois grupos e dentro desses chama recursão até haver apenas um vetor ordenado. 
